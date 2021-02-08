@@ -1,1 +1,0 @@
-# hex-2048-gh-pages

@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/jurisk/hex-2048-gh-pages/static/css/main.01757acf.chunk.css",
-    "main.js": "/jurisk/hex-2048-gh-pages/static/js/main.e3cd38a8.chunk.js",
-    "main.js.map": "/jurisk/hex-2048-gh-pages/static/js/main.e3cd38a8.chunk.js.map",
-    "runtime-main.js": "/jurisk/hex-2048-gh-pages/static/js/runtime-main.f0c0c71e.js",
-    "runtime-main.js.map": "/jurisk/hex-2048-gh-pages/static/js/runtime-main.f0c0c71e.js.map",
-    "static/css/2.4299080f.chunk.css": "/jurisk/hex-2048-gh-pages/static/css/2.4299080f.chunk.css",
-    "static/js/2.8eb57e00.chunk.js": "/jurisk/hex-2048-gh-pages/static/js/2.8eb57e00.chunk.js",
-    "static/js/2.8eb57e00.chunk.js.map": "/jurisk/hex-2048-gh-pages/static/js/2.8eb57e00.chunk.js.map",
-    "index.html": "/jurisk/hex-2048-gh-pages/index.html",
-    "static/css/2.4299080f.chunk.css.map": "/jurisk/hex-2048-gh-pages/static/css/2.4299080f.chunk.css.map",
-    "static/css/main.01757acf.chunk.css.map": "/jurisk/hex-2048-gh-pages/static/css/main.01757acf.chunk.css.map",
-    "static/js/2.8eb57e00.chunk.js.LICENSE.txt": "/jurisk/hex-2048-gh-pages/static/js/2.8eb57e00.chunk.js.LICENSE.txt"
+    "main.css": "/hex-2048-gh-pages/static/css/main.01757acf.chunk.css",
+    "main.js": "/hex-2048-gh-pages/static/js/main.e3cd38a8.chunk.js",
+    "main.js.map": "/hex-2048-gh-pages/static/js/main.e3cd38a8.chunk.js.map",
+    "runtime-main.js": "/hex-2048-gh-pages/static/js/runtime-main.dceda347.js",
+    "runtime-main.js.map": "/hex-2048-gh-pages/static/js/runtime-main.dceda347.js.map",
+    "static/css/2.4299080f.chunk.css": "/hex-2048-gh-pages/static/css/2.4299080f.chunk.css",
+    "static/js/2.8eb57e00.chunk.js": "/hex-2048-gh-pages/static/js/2.8eb57e00.chunk.js",
+    "static/js/2.8eb57e00.chunk.js.map": "/hex-2048-gh-pages/static/js/2.8eb57e00.chunk.js.map",
+    "index.html": "/hex-2048-gh-pages/index.html",
+    "static/css/2.4299080f.chunk.css.map": "/hex-2048-gh-pages/static/css/2.4299080f.chunk.css.map",
+    "static/css/main.01757acf.chunk.css.map": "/hex-2048-gh-pages/static/css/main.01757acf.chunk.css.map",
+    "static/js/2.8eb57e00.chunk.js.LICENSE.txt": "/hex-2048-gh-pages/static/js/2.8eb57e00.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0c0c71e.js",
+    "static/js/runtime-main.dceda347.js",
     "static/css/2.4299080f.chunk.css",
     "static/js/2.8eb57e00.chunk.js",
     "static/css/main.01757acf.chunk.css",

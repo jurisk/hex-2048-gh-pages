@@ -1,2 +1,0 @@
-.hex-grid{width:80vmin;height:80vmin;background-color:#f0f0f0;border:1px solid #0a0a0a;border-radius:50%;position:relative}.hex:hover{opacity:.8}.hex{display:flex;align-items:center;justify-content:center;border:1px solid #0a0a0a;border-radius:50%;transition:all;transition-timing-function:ease;transition-duration:1s;position:absolute}.game-board:focus{outline:0}
-/*# sourceMappingURL=main.3b42fb15.chunk.css.map */
